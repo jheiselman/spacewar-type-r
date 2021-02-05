@@ -1,0 +1,35 @@
+{"spawn_points": {
+        "point1": {
+            "facing": 270, "pos_x": 0, "pos_y": -50
+        },
+        "point2": {
+            "facing": 90, "pos_x": -1, "pos_y": -50
+        },
+        "point3": {
+            "facing": 270, "pos_x": 0, "pos_y": 50
+        },
+        "point4": {
+            "facing": 90, "pos_x": -1, "pos_y": 50
+        }
+    },
+    "name": "level1",
+    "background": "images\/bkg.jpg",
+    "max_players": 4,
+    "next_level": 0,
+    "static_entities": {
+        "sun1": {
+            "pos_x": 370,
+            "pos_y": 270,
+            "vel_x": -0.13,
+            "vel_y": 0.01,
+            "class": "Star"
+        },
+        "sun2": {
+            "pos_x": 430,
+            "pos_y": 330,
+            "vel_x": 0.13,
+            "vel_y": -0.01,
+            "class": "Star"
+        }
+    }
+}

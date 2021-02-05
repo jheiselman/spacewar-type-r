@@ -1,0 +1,20 @@
+{"spawn_points": {
+        "point1": {
+            "facing": 270, "pos_x": 0, "pos_y": -50
+        },
+        "point2": {
+            "facing": 90, "pos_x": -1, "pos_y": -50
+        },
+        "point3": {
+            "facing": 270, "pos_x": 0, "pos_y": 50
+        },
+        "point4": {
+            "facing": 90, "pos_x": -1, "pos_y": 50
+        }
+    },
+    "name": "level1",
+    "background": "images\/bkg2.jpg",
+    "max_players": 4,
+    "next_level": "level2",
+    "static_entities": { }
+}
